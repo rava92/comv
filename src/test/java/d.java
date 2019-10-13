@@ -3,5 +3,6 @@ public class d {
 
         System.out.println("mmmmmm");
 
+        System.out.println();
     }
 }
