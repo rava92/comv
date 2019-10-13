@@ -4,5 +4,6 @@ public class d {
         System.out.println("mmmmmm");
 
         System.out.println();
+        int j = 99;
     }
 }
