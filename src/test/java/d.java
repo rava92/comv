@@ -5,7 +5,6 @@ public class d {
 
         System.out.println();
         
-        
-        System.out.println("this is from GitHub");
+      
     }
 }
